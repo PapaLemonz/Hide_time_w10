@@ -17,6 +17,8 @@ This repository contains two simple Windows batch scripts to **hide** or **show*
 ## 🚀 How to Use
 
 ### 1. Download or Clone the Repository
+⚠️ These scripts modify the Windows Registry and restart Explorer.
+Please run as administrator to ensure proper functionality.
 
 ```bash
 git clone https://github.com/Papalemonz/Hide_time_w10.git
